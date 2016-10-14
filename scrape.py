@@ -24,19 +24,25 @@ def main():
 
     new_file = open('newb', 'w')
 
-    make_text_file(root, new_file)
+    write_text_file(root, new_file)
     new_file.close()
 
-def make_text_file(root, new_file, index_level = 0):
+def translate(tag):
+    mapping = {'infoTable': 'Information',
+            'nameOfIssuer': 'Name of Issuer'
+        }
+    return mapping[tag] if tag in mapping else tag
+def write_text_file(root, new_file, index_level = 0):
     tab = '    '
-
     for child in root:
         print(child)
         bracket_index = child.tag.index('}')
         tag = child.tag if bracket_index == -1 else child.tag[bracket_index+1:]
         info = child.text
-        new_file.write(tab*index_level + tag + ' ' + info)
-        embed()
+        tag = translate(tag)
+        text = '{}{}: {} \n'.format(tab * index_level, tag, info )
+        new_file.write(text)
+        write_text_file(child, new_file, index_level+1)
 # get namespace?
 # tag = root.tag
 # if '{' in tag and '}' in tag:
