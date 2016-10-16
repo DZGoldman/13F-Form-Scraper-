@@ -1,48 +1,29 @@
-import urllib.request, sys, random
-# import xml.etree.ElementTree as ET
+import urllib.request, os
+from scrape_funcs import *
 from lxml import etree as ET
-from io import StringIO
 from IPython import embed
 
+# https://www.sec.gov/Archives/edgar/data/1600217/000160021716000001/table2016Q1.xml
+
 # if a url is given, use it
-def get_url():
-    if len(sys.argv[1:]):
-        return sys.argv[-1]
-    # otherwise, use one of these:
-    else:
-        urls = ['https://www.sec.gov/Archives/edgar/data/1166559/000110465916139781/a16-16809_1informationtable.xml'
-            ,'https://www.sec.gov/Archives/edgar/data/1166559/000110465915038724/a15-11748_1informationtable.xml'
-            ]
-        return random.choice(urls)
 
 def main():
+    # url = get_url()
+
     url = get_url()
-
     result = urllib.request.urlopen(url)
-    # embed()
-    root = ET.fromstring(result.read())
+    embed()
+    s = result.read()
 
-    new_file = open('newb', 'w')
+    root = ET.fromstring(s )
+
+
+    new_file, file_path = make_new_file()
+
 
     write_text_file(root, new_file)
     new_file.close()
-
-def translate(tag):
-    mapping = {'infoTable': 'Information',
-            'nameOfIssuer': 'Name of Issuer'
-        }
-    return mapping[tag] if tag in mapping else tag
-def write_text_file(root, new_file, index_level = 0):
-    tab = '    '
-    for child in root:
-        print(child)
-        bracket_index = child.tag.index('}')
-        tag = child.tag if bracket_index == -1 else child.tag[bracket_index+1:]
-        info = child.text
-        tag = translate(tag)
-        text = '{}{}: {} \n'.format(tab * index_level, tag, info )
-        new_file.write(text)
-        write_text_file(child, new_file, index_level+1)
+    os.system('open ' + file_path)
 # get namespace?
 # tag = root.tag
 # if '{' in tag and '}' in tag:

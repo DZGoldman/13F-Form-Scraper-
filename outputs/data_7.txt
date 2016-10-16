@@ -1,0 +1,642 @@
+
+Information:  
+    Name Of Issuer: AMERICAN RAILCAR INDS INC 
+    Title Of Class: COM 
+    CUSIP #: 02916P103 
+    Value: 20814 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 307123 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 13 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 307123 
+         None: 0 
+
+Information:  
+    Name Of Issuer: AMERICAN RAILCAR INDS INC 
+    Title Of Class: COM 
+    CUSIP #: 02916P103 
+    Value: 783702 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 11564145 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 10 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 11564145 
+         None: 0 
+
+Information:  
+    Name Of Issuer: APPLE INC 
+    Title Of Class: COM 
+    CUSIP #: 037833100 
+    Value: 980613 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 10552171 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 10552171 
+         None: 0 
+
+Information:  
+    Name Of Issuer: APPLE INC 
+    Title Of Class: COM 
+    CUSIP #: 037833100 
+    Value: 3922452 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 42208677 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 42208677 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CVR REFNG LP 
+    Title Of Class: COM 
+    CUSIP #: 12662P107 
+    Value: 100040 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 4000000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 13 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 4000000 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CVR REFNG LP 
+    Title Of Class: COM 
+    CUSIP #: 12662P107 
+    Value: 50020 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 2000000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 2000000 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CVR ENERGY INC 
+    Title Of Class: COM 
+    CUSIP #: 12662P108 
+    Value: 3431066 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 71198718 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 12 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 71198718 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CHESAPEAKE ENERGY CORP 
+    Title Of Class: COM 
+    CUSIP #: 165167107 
+    Value: 413053 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 13290002 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 13290002 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CHESAPEAKE ENERGY CORP 
+    Title Of Class: COM 
+    CUSIP #: 165167107 
+    Value: 1652213 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 53159998 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 53159998 
+         None: 0 
+
+Information:  
+    Name Of Issuer: EBAY INC 
+    Title Of Class: COM 
+    CUSIP #: 278642103 
+    Value: 308390 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 6160403 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 6160403 
+         None: 0 
+
+Information:  
+    Name Of Issuer: EBAY INC 
+    Title Of Class: COM 
+    CUSIP #: 278642103 
+    Value: 1233609 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 24642612 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 24642612 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ENZON PHARMACEUTICALS INC 
+    Title Of Class: COM 
+    CUSIP #: 293904108 
+    Value: 1228 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 1180972 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 1180972 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ENZON PHARMACEUTICALS INC 
+    Title Of Class: COM 
+    CUSIP #: 293904108 
+    Value: 4913 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 4723891 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 4723891 
+         None: 0 
+
+Information:  
+    Name Of Issuer: FEDERAL MOGUL HOLDINGS CORP 
+    Title Of Class: COM 
+    CUSIP #: 313549404 
+    Value: 2450095 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 121111976 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 7 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 121111976 
+         None: 0 
+
+Information:  
+    Name Of Issuer: GANNETT INC 
+    Title Of Class: COM 
+    CUSIP #: 364730101 
+    Value: 17126 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 546978 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 546978 
+         None: 0 
+
+Information:  
+    Name Of Issuer: GANNETT INC 
+    Title Of Class: COM 
+    CUSIP #: 364730101 
+    Value: 68503 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 2187910 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 2187910 
+         None: 0 
+
+Information:  
+    Name Of Issuer: HERBALIFE LTD 
+    Title Of Class: COM USD SHS 
+    CUSIP #: G4412G101 
+    Value: 219436 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3399999 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 3399999 
+         None: 0 
+
+Information:  
+    Name Of Issuer: HERBALIFE LTD 
+    Title Of Class: COM USD SHS 
+    CUSIP #: G4412G101 
+    Value: 877744 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 13600001 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 13600001 
+         None: 0 
+
+Information:  
+    Name Of Issuer: HOLOGIC INC 
+    Title Of Class: COM 
+    CUSIP #: 436440101 
+    Value: 173165 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 6830974 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 6830974 
+         None: 0 
+
+Information:  
+    Name Of Issuer: HOLOGIC INC 
+    Title Of Class: COM 
+    CUSIP #: 436440101 
+    Value: 6692661 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 27323905 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 27323905 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 355803 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3568732 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 2 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 3568732 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 4056969 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 40691767 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 4 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 40691767 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 1208651 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 12122876 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 5 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 12122876 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 70710 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 709227 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 709227 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 223328 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 2240001 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 14 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 2240001 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 1775272 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 17806143 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 11 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 17806143 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 791163 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 7935437 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 9 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 7935437 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 1556118 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 15608000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 6 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 15608000 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ICAHN ENTERPRISES LP 
+    Title Of Class: DEPOSITARY UNIT 
+    CUSIP #: 451100101 
+    Value: 514478 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 5160259 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 8 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 5160259 
+         None: 0 
+
+Information:  
+    Name Of Issuer: MENTOR GRAPHICS CORP 
+    Title Of Class: COM 
+    CUSIP #: 587200106 
+    Value: 69543 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3224057 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 3224057 
+         None: 0 
+
+Information:  
+    Name Of Issuer: MENTOR GRAPHICS CORP 
+    Title Of Class: COM 
+    CUSIP #: 587200106 
+    Value: 278172 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 12896232 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 12896232 
+         None: 0 
+
+Information:  
+    Name Of Issuer: NAVISTAR INTL CORP NEW 
+    Title Of Class: COM 
+    CUSIP #: 63934E108 
+    Value: 107494 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 2867504 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 2867504 
+         None: 0 
+
+Information:  
+    Name Of Issuer: NAVISTAR INTL CORP NEW 
+    Title Of Class: COM 
+    CUSIP #: 63934E108 
+    Value: 429896 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 11470020 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 11470020 
+         None: 0 
+
+Information:  
+    Name Of Issuer: NETFLIX INC 
+    Title Of Class: COM 
+    CUSIP #: 64110L106 
+    Value: 155523 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 352981 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 352981 
+         None: 0 
+
+Information:  
+    Name Of Issuer: NETFLIX INC 
+    Title Of Class: COM 
+    CUSIP #: 64110L106 
+    Value: 622095 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 1411926 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 1411926 
+         None: 0 
+
+Information:  
+    Name Of Issuer: NUANCE COMMUNICATIONS INC 
+    Title Of Class: COM 
+    CUSIP #: 67020Y100 
+    Value: 228186 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 12156927 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 12156927 
+         None: 0 
+
+Information:  
+    Name Of Issuer: NUANCE COMMUNICATIONS INC 
+    Title Of Class: COM 
+    CUSIP #: 67020Y100 
+    Value: 912742 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 48627696 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 48627696 
+         None: 0 
+
+Information:  
+    Name Of Issuer: TALISMAN ENERGY INC 
+    Title Of Class: COM 
+    CUSIP #: 87425E103 
+    Value: 161247 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 15212016 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 15212016 
+         None: 0 
+
+Information:  
+    Name Of Issuer: TALISMAN ENERGY INC 
+    Title Of Class: COM 
+    CUSIP #: 87425E103 
+    Value: 644989 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 60848062 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 60848062 
+         None: 0 
+
+Information:  
+    Name Of Issuer: TRANSOCEAN LTD 
+    Title Of Class: REG SHS 
+    CUSIP #: H8817H100 
+    Value: 193430 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 4295579 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 4295579 
+         None: 0 
+
+Information:  
+    Name Of Issuer: TRANSOCEAN LTD 
+    Title Of Class: REG SHS 
+    CUSIP #: H8817H100 
+    Value: 773720 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 17182321 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 3 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 17182321 
+         None: 0 
+
+Information:  
+    Name Of Issuer: VOLTARI CORP 
+    Title Of Class: COM NEW 
+    CUSIP #: 92870X309 
+    Value: 198 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 100000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Other Manager: 1 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 100000 
+         None: 0 
+
+Information:  
+    Name Of Issuer: VOLTARI CORP 
+    Title Of Class: COM NEW 
+    CUSIP #: 92870X309 
+    Value: 1145 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 578203 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: DFND 
+    Voting Authority:  
+         Sole: 0 
+         Shared: 578203 
+         None: 0 

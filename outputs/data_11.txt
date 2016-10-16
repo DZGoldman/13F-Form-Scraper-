@@ -1,0 +1,60 @@
+
+Information:  
+    Name Of Issuer: ALIBABA GROUP HLDG LTD 
+    Title Of Class: SP ADS 
+    CUSIP #: 01609W102 
+    Value: 56902 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 720000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Other Manager: NONE 
+    Voting Authority:  
+         Sole: 720000 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: SOUFUN HLDGS LTD 
+    Title Of Class: ADR 
+    CUSIP #: 836034108 
+    Value: 26485 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 4421531 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Other Manager: NONE 
+    Voting Authority:  
+         Sole: 4421531 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: DISNEY WALT CO 
+    Title Of Class: COM DISNEY 
+    CUSIP #: 254687106 
+    Value: 36745 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 370000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Other Manager: NONE 
+    Voting Authority:  
+         Sole: 370000 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: MARKET VECTORS ETF TR 
+    Title Of Class: RUSSIA ETF 
+    CUSIP #: 57060U506 
+    Value: 14740 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 901000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Other Manager: NONE 
+    Voting Authority:  
+         Sole: 901000 
+         Shared: 0 
+         None: 0 

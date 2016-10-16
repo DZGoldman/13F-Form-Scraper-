@@ -1,0 +1,127 @@
+
+Header Data:  
+    Submission Type: 13F-HR 
+    Filer Info:  
+        Live Test Flag: LIVE 
+        Flags:  
+            Confirming Copy Flag: false 
+            Return Copy Flag: true 
+            Override Internet Flag: false 
+        Filer:  
+            Credentials:  
+                Cik: 0000921669 
+                Ccc: XXXXXXXX 
+        Period Of Report: 06-30-2014 
+
+Form Data:  
+    Cover Page:  
+        Report Calendar Or Quarter: 06-30-2014 
+        Filing Manager:  
+            Name: ICAHN CARL C 
+            Address:  
+                Street1: C/O ICAHN ASSOCIATES HOLDING LLC 
+                Street2: 767 FIFTH AVE., SUITE 4700 
+                City: NEW YORK 
+                State Or Country: NY 
+                Zip Code: 10153 
+        Report Type: 13F HOLDINGS REPORT 
+        Form13 F File Number: 028-04333 
+        Provide Info For Instruction5: N 
+    Signature Block:  
+        Name: EDWARD E. MATTNER 
+        Title: ATTORNEY-IN-FACT 
+        Phone: 212-702-4300 
+        Signature: EDWARD E. MATTNER 
+        City: NEW YORK 
+        State Or Country: NY 
+        Signature Date: 08-14-2014 
+    Summary Page:  
+        Other Included Managers Count: 14 
+        Table Entry Total: 43 
+        Table Value Total: 38531715 
+        Is Confidential Omitted: true 
+        Other Managers2 Info:  
+            Other Manager2:  
+                Sequence Number: 1 
+                Other Manager:  
+                    Cik: 0000928464 
+                    Form13 F File Number: 028-04690 
+                    Name: HIGH RIVER LIMITED PARTNERSHIP 
+            Other Manager2:  
+                Sequence Number: 2 
+                Other Manager:  
+                    Cik: 0000860851 
+                    Form13 F File Number: 028-02662 
+                    Name: BARBERRY CORP. 
+            Other Manager2:  
+                Sequence Number: 3 
+                Other Manager:  
+                    Cik: 0001412093 
+                    Form13 F File Number: 028-12848 
+                    Name: ICAHN CAPITAL LP 
+            Other Manager2:  
+                Sequence Number: 4 
+                Other Manager:  
+                    Cik: 0000945612 
+                    Form13 F File Number: 028-04970 
+                    Name: HIGH COAST LIMITED PARTNERSHIP 
+            Other Manager2:  
+                Sequence Number: 5 
+                Other Manager:  
+                    Cik: 0000928475 
+                    Form13 F File Number: 028-04460 
+                    Name: HIGHCREST INVESTORS LLC 
+            Other Manager2:  
+                Sequence Number: 6 
+                Other Manager:  
+                    Cik: 0001315356 
+                    Form13 F File Number: 028-11469 
+                    Name: GASCON PARTNERS 
+            Other Manager2:  
+                Sequence Number: 7 
+                Other Manager:  
+                    Cik: 0001439443 
+                    Form13 F File Number: 028-13260 
+                    Name: IEH FM HOLDINGS LLC 
+            Other Manager2:  
+                Sequence Number: 8 
+                Other Manager:  
+                    Cik: 0001257325 
+                    Form13 F File Number: 028-13170 
+                    Name: THORNWOOD ASSOCIATES LIMITED PARTNERSHIP 
+            Other Manager2:  
+                Sequence Number: 9 
+                Other Manager:  
+                    Cik: 0001325399 
+                    Form13 F File Number: 028-16040 
+                    Name: TRAMORE LLC 
+            Other Manager2:  
+                Sequence Number: 10 
+                Other Manager:  
+                    Cik: 0001490355 
+                    Form13 F File Number: 028-13957 
+                    Name: IEH ARI HOLDINGS LLC 
+            Other Manager2:  
+                Sequence Number: 11 
+                Other Manager:  
+                    Cik: 0001327741 
+                    Form13 F File Number: 028-12621 
+                    Name: CCI ONSHORE LLC 
+            Other Manager2:  
+                Sequence Number: 12 
+                Other Manager:  
+                    Cik: 0001548917 
+                    Form13 F File Number: 028-15034 
+                    Name: IEP ENERGY LLC 
+            Other Manager2:  
+                Sequence Number: 13 
+                Other Manager:  
+                    Cik: 0001034563 
+                    Form13 F File Number: 028-05849 
+                    Name: ICAHN ENTERPRISES HOLDINGS L.P. 
+            Other Manager2:  
+                Sequence Number: 14 
+                Other Manager:  
+                    Cik: 0001327740 
+                    Form13 F File Number: 028-12620 
+                    Name: CCI OFFSHORE LLC 

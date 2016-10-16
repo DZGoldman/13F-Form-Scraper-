@@ -1,0 +1,288 @@
+Information: 
+     
+    Name of Issuer: ARCOS DORADOS HOLDINGS INC 
+    titleOfClass: SHS CLASS -A - 
+    cusip: G0457F107 
+    value: 15088 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 3060500 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 3060500 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: AUTONATION INC 
+    titleOfClass: COM 
+    cusip: 05329W102 
+    value: 122144 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 1898716 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 1898716 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: BERKSHIRE HATHAWAY INC 
+    titleOfClass: CL B NEW 
+    cusip: 084670702 
+    value: 10625605 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 73625314 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 73625314 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: BP PLC 
+    titleOfClass: SPONSORED ADR 
+    cusip: 055622104 
+    value: 289634 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 7405614 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 7405614 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: CANADIAN NATL RY CO 
+    titleOfClass: COM 
+    cusip: 136375102 
+    value: 1145274 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 17126874 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 17126874 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: CATERPILLAR INC 
+    titleOfClass: COM 
+    cusip: 149123101 
+    value: 901206 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 11260857 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 11260857 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: COCA COLA FEMSA SAB DE CV 
+    titleOfClass: SPON ADR REP L 
+    cusip: 191241108 
+    value: 496307 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 6214719 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 6214719 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: CROWN CASTLE INTL CORP NEW 
+    titleOfClass: COM 
+    cusip: 22822V101 
+    value: 440178 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 5332900 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 5332900 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: ECOLAB INC 
+    titleOfClass: COM 
+    cusip: 278865100 
+    value: 499432 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 4366425 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 4366425 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: FEDEX CORP 
+    titleOfClass: COM 
+    cusip: 31428X106 
+    value: 500486 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 3024999 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 3024999 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: GRUPO TELEVISA SA 
+    titleOfClass: SPON ADR REP ORD 
+    cusip: 40049J206 
+    value: 557179 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 16879103 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 16879103 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: LIBERTY GLOBAL PLC 
+    titleOfClass: SHS CL A 
+    cusip: G5480U104 
+    value: 109091 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 2119515 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 2119515 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: LIBERTY GLOBAL PLC 
+    titleOfClass: SHS CL C 
+    cusip: G5480U120 
+    value: 181276 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 3639349 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 3639349 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: REPUBLIC SVCS INC 
+    titleOfClass: COM 
+    cusip: 760759100 
+    value: 54756 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 1350000 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 1350000 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: UNITED PARCEL SERVICE INC 
+    titleOfClass: CL B 
+    cusip: 911312106 
+    value: 438685 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 4525329 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 4525329 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: WAL-MART STORES INC 
+    titleOfClass: COM 
+    cusip: 931142103 
+    value: 954347 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 11603000 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 11603000 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: WALGREENS BOOTS ALLIANCE INC 
+    titleOfClass: COM 
+    cusip: 931427108 
+    value: 294297 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 3475398 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 3475398 
+        Shared: 0 
+        None: 0 
+Information: 
+     
+    Name of Issuer: WASTE MGNT INC DEL 
+    titleOfClass: COM 
+    cusip: 94106L109 
+    value: 1010504 
+    shrsOrPrnAmt: 
+       
+        sshPrnamt: 18633672 
+        sshPrnamtType: SH 
+    investmentDiscretion: SOLE 
+    votingAuthority: 
+       
+        Sole: 18633672 
+        Shared: 0 
+        None: 0 

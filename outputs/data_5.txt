@@ -1,0 +1,252 @@
+
+Information:  
+    Name Of Issuer: ARCOS DORADOS HOLDINGS INC 
+    Title Of Class: SHS CLASS -A - 
+    CUSIP #: G0457F107 
+    Value: 14599 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3060500 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 3060500 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: AUTONATION INC 
+    Title Of Class: COM 
+    CUSIP #: 05329W102 
+    Value: 89202 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 1898717 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 1898717 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: BERKSHIRE HATHAWAY INC DEL 
+    Title Of Class: CL B NEW 
+    CUSIP #: 084670702 
+    Value: 9321804 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 64381548 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 64381548 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CANADIAN NATL RY CO 
+    Title Of Class: COM 
+    CUSIP #: 136375102 
+    Value: 1011513 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 17126874 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 17126874 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CATERPILLAR INC DEL 
+    Title Of Class: COM 
+    CUSIP #: 149123101 
+    Value: 853686 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 11260857 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 11260857 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: COCA COLA FEMSA SAB DE CV 
+    Title Of Class: SPON ADR REP L 
+    CUSIP #: 191241108 
+    Value: 515573 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 6214719 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 6214719 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: CROWN CASTLE INTL CORP NEW 
+    Title Of Class: COM 
+    CUSIP #: 22822V101 
+    Value: 540916 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 5332900 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 5332900 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: ECOLAB INC 
+    Title Of Class: COM 
+    CUSIP #: 278865100 
+    Value: 517858 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 4366426 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 4366426 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: FEDEX CORP 
+    Title Of Class: COM 
+    CUSIP #: 31428X106 
+    Value: 459134 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3024999 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 3024999 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: GRUPO TELEVISA SA 
+    Title Of Class: SPON ADR REP ORD 
+    CUSIP #: 40049J206 
+    Value: 439532 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 16879104 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 16879104 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: LIBERTY GLOBAL PLC 
+    Title Of Class: SHS CL A 
+    CUSIP #: G5480U104 
+    Value: 61593 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 2119515 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 2119515 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: LIBERTY GLOBAL PLC 
+    Title Of Class: SHS CL C 
+    CUSIP #: G5480U120 
+    Value: 104267 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3639349 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 3639349 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: LIBERTY GLOBAL PLC 
+    Title Of Class: LILAC SHS CL A 
+    CUSIP #: G5480U138 
+    Value: 11950 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 370424 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 370424 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: LIBERTY GLOBAL PLC 
+    Title Of Class: LILAC SHS CL C 
+    CUSIP #: G5480U153 
+    Value: 20665 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 636044 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 636044 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: UNITED PARCEL SERVICE INC 
+    Title Of Class: CL B 
+    CUSIP #: 911312106 
+    Value: 487468 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 4525329 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 4525329 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: WALGREENS BOOTS ALLIANCE INC 
+    Title Of Class: COM 
+    CUSIP #: 931427108 
+    Value: 289396 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 3475398 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 3475398 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: WAL-MART STORES INC 
+    Title Of Class: COM 
+    CUSIP #: 931142103 
+    Value: 847251 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 11603000 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 11603000 
+         Shared: 0 
+         None: 0 
+
+Information:  
+    Name Of Issuer: WASTE MGMT INC DEL 
+    Title Of Class: COM 
+    CUSIP #: 94106L109 
+    Value: 1234853 
+    Shares/Principal Amount:  
+        SSH Principal Amount: 18633672 
+        SSH Principal Amount Type: SH 
+    Investment Discretion: SOLE 
+    Voting Authority:  
+         Sole: 18633672 
+         Shared: 0 
+         None: 0 
