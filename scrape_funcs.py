@@ -1,3 +1,8 @@
+# Helper functions, used in scrape.py
+import urllib.request
+from lxml import etree as ET
+from IPython import embed
+
 
 import sys, random, os
 # get url to scrape data from; uses url from command line, or url from static list if none is given
@@ -29,7 +34,7 @@ def make_new_file():
 # translates common xml tags into more human readable / asthetically pleasing strings.
 # Seperates other tags (that aren't statically translated) into capitalized, space seperated words:
 def translate(tag):
-    mapping = {'infoTable': 'Information',
+    mapping = {'infoTable': 'Investment Holding',
             'cusip': 'CUSIP #',
             'shrsOrPrnAmt': 'Shares/Principal Amount',
             'sshPrnamt': 'SSH Principal Amount',
@@ -62,3 +67,35 @@ def write_text_file(root, new_file, index_level = 0):
         new_file.write(text)
         # recursively call on child nodes (with higher tab delineation)
         write_text_file(child, new_file, index_level+1)
+
+def make_dictionary(node, dictionary = None):
+    if not dictionary: dictionary = {}
+
+    for child in node:
+            # if namespace is part of tag string, ignore it
+        bracket_index = child.tag.index('}')
+        tag = child.tag if bracket_index == -1 else child.tag[bracket_index+1:]
+        info =  child.text.strip('\n').strip()
+        if info:
+            dictionary[tag] = info
+        make_dictionary(child, dictionary)
+    return dictionary
+def write_tab_text_file(root,new_file):
+    # get tag order
+
+    # create list of dictionaries
+    all_listings = []
+
+    for info_table in root:
+        all_listings.append(make_dictionary(info_table))
+    embed()
+
+    # write to file one by one
+def get_xml_root(url):
+    result = urllib.request.urlopen(url)
+    root = ET.fromstring(result.read())
+    return root
+
+def get_xml_root_2(url):
+    result = urllib.request.urlopen(url)
+    return result

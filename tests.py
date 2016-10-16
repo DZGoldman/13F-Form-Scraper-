@@ -1,5 +1,5 @@
 import unittest
-from scrape import translate
+from scrape_funcs import translate
 
 class Tests(unittest.TestCase):
 

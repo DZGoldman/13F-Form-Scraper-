@@ -1,6 +1,6 @@
-import urllib.request, os
+import os
 from scrape_funcs import *
-from lxml import etree as ET
+
 from IPython import embed
 
 # https://www.sec.gov/Archives/edgar/data/1600217/000160021716000001/table2016Q1.xml
@@ -9,19 +9,16 @@ from IPython import embed
 
 def main():
     # url = get_url()
+    # embed()
 
     url = get_url()
-    result = urllib.request.urlopen(url)
+
+    root = get_xml_root(url)
     embed()
-    s = result.read()
-
-    root = ET.fromstring(s )
-
-
     new_file, file_path = make_new_file()
 
 
-    write_text_file(root, new_file)
+    write_tab_text_file(root, new_file)
     new_file.close()
     os.system('open ' + file_path)
 # get namespace?
