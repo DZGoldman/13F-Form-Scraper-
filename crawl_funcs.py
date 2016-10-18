@@ -14,21 +14,20 @@ def get_ticker():
 def get_company_page(ticker):
     ticker_url = 'https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=%s&type=13F' %(ticker)
     page = request.urlopen(ticker_url)
-    return BS(page, "html")
+    return BS(page, "lxml")
 
 def get_filing_detail(company_page):
     filings = company_page.select('.blueRow')
     if len(filings):
         filing_page_url = prefix + filings[0].a.get('href')
         filing_page = request.urlopen(filing_page_url)
-        return BS(filing_page)
+        return BS(filing_page, 'lxml')
     else:
         return False
 
 def get_xml_url(filing_detail_page):
     for link in filing_detail_page.find_all('a'):
         text = link.text
-        print(text)
         if text[-4:] == '.xml' and text[:-4] != 'primary_doc':
             return prefix+link.get('href')
     else:

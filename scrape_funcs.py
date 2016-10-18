@@ -64,18 +64,18 @@ def get_column_names(node, li = None):
 # translates common xml tags into more human readable / asthetically pleasing strings.
 # Seperates other tags (that aren't statically translated) into capitalized, space seperated words:
 def translate(tag):
-    mapping = {'infoTable': 'Investment Holding',
+    mapping = {'infoTable': 'Investment_Holding',
             'cusip': 'CUSIP #',
-            'shrsOrPrnAmt': 'Shares/Principal Amount',
-            'sshPrnamt': 'SSH Principal Amount',
-            'sshPrnamtType': 'SSH Principal Amount Type'
+            'shrsOrPrnAmt': 'Shares/Principal_Amount',
+            'sshPrnamt': 'SSH_Principal Amount',
+            'sshPrnamtType': 'SSH_Principal_Amount_Type'
         }
     if tag in mapping:
          return mapping[tag]
     else:
         new_string = ''
-        for char in (tag):
-            new_string += ' '+char if char.isupper() else char
+        for i, char in enumerate(tag):
+            new_string += '_'+char if char.isupper() else char if i>0 else char.lower()
         return new_string[0].upper() + new_string[1:] if new_string else ''
 
 
