@@ -1,2 +1,0 @@
-Name Of Issuer     Title Of Class     CUSIP #     Value     Shares/Principal Amount     SSH Principal Amount     SSH Principal Amount Type     Investment Discretion     Other Manager     Voting Authority      Sole      Shared      None     
-ALIBABA GROUP HLDG LTD     

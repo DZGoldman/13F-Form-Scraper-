@@ -1,5 +1,0 @@
-Name Of Issuer     Title Of Class     CUSIP #     Value     Shares/Principal Amount     SSH Principal Amount     SSH Principal Amount Type     Investment Discretion     Other Manager     Voting Authority      Sole      Shared      None     
-ALIBABA GROUP HLDG LTD     SP ADS     01609W102     56902          720000     SH     SOLE     NONE          720000     0     0     
-SOUFUN HLDGS LTD     ADR     836034108     26485          4421531     SH     SOLE     NONE          4421531     0     0     
-DISNEY WALT CO     COM DISNEY     254687106     36745          370000     SH     SOLE     NONE          370000     0     0     
-MARKET VECTORS ETF TR     RUSSIA ETF     57060U506     14740          901000     SH     SOLE     NONE          901000     0     0     
